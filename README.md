@@ -1,5 +1,5 @@
-# ITP_Project
-<b>Blood Bank Management System</b>
+# ITP_Project <b>Blood Bank Management System</b>
+
 
 This is a Web Application for Online Hospital management system.
 Web application designed and implemented as a part of the semester assignment of the "Information Technology Project" module for the BSc in IT Year 2 Semester 2 at SLIIT.
