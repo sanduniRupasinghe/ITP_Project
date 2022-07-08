@@ -1,4 +1,4 @@
-# ITP_Project <b>Blood Bank Management System</b>
+# ITP_Project "Blood Bank Management System"
 
 
 This is a Web Application for Online Hospital management system.
